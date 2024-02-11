@@ -1,0 +1,16 @@
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\bin\Debug\net6.0-windows\Ancheta_Finals.exe
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\bin\Debug\net6.0-windows\Ancheta_Finals.deps.json
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\bin\Debug\net6.0-windows\Ancheta_Finals.runtimeconfig.json
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\bin\Debug\net6.0-windows\Ancheta_Finals.dll
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\bin\Debug\net6.0-windows\Ancheta_Finals.pdb
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.Form1.resources
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.csproj.GenerateResource.cache
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.AssemblyInfoInputs.cache
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.AssemblyInfo.cs
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.csproj.CoreCompileInputs.cache
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.dll
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\refint\Ancheta_Finals.dll
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.pdb
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\Ancheta_Finals.genruntimeconfig.cache
+C:\Users\Cheta\Desktop\Visual Studio Things\C#\Com Prog 2\Ancheta_Finals\Ancheta_Finals\obj\Debug\net6.0-windows\ref\Ancheta_Finals.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ancheta_Finals/1.0.0": {
+        "runtime": {
+          "Ancheta_Finals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ancheta_Finals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
